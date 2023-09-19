@@ -11,7 +11,7 @@ const Rightbar = () => {
             <Box position="absulot" width={300} >
                 <Typography variant="h6" fontSize={20} mb={1} sx={{ backgroundColor: "lightblue", width: "35%", borderRadius: "50px" }}>-دوستان انلاین</Typography>
 
-                <AvatarGroup max={7}>
+                <AvatarGroup max={8}>
                     <Avatar
                         alt="Remy Sharp"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEf3-4Wtn7xm9OFPcXy1P1I40gjLd58-x4yzKeAShAnOrofS0Sata56QiIAJr6sKzfp4&usqp=CAU"
