@@ -11,15 +11,12 @@ const Rightbar = () => {
             <Box position="absulot" width={300} >
                 <Typography variant="h6" fontSize={20} mb={1} sx={{ backgroundColor: "lightblue", width: "35%", borderRadius: "50px" }}>-دوستان انلاین</Typography>
 
-                <AvatarGroup max={8}>
+                <AvatarGroup max={7}>
                     <Avatar
                         alt="Remy Sharp"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEf3-4Wtn7xm9OFPcXy1P1I40gjLd58-x4yzKeAShAnOrofS0Sata56QiIAJr6sKzfp4&usqp=CAU"
                     />
-                      <Avatar
-                        alt="Remy Sharp"
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEf3-4Wtn7xm9OFPcXy1P1I40gjLd58-x4yzKeAShAnOrofS0Sata56QiIAJr6sKzfp4&usqp=CAU"
-                    />
+                      
                     <Avatar
                         alt="Travis Howard"
                         src="https://instasize.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmunkee%2Fimage%2Fupload%2Fw_1000%2Cc_fill%2Car_1%3A1%2Cg_auto%2Cr_max%2Fv1681855894%2Finstasize-website%2Flearn%2Fblonde-woman-selfie-instagram-influencer.webp&w=828&q=75"
